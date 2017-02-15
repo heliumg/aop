@@ -1,0 +1,6 @@
+
+*.sln
+*.user
+packages/*
+.vs/*
+Debug
